@@ -1,5 +1,11 @@
 <p style="font-family: 'Roboto Mono'; font-size: 18px;">
-I have always wanted to be a hacker. To be hacky. Daring, unapologetic, creative, artsy, and a little nerdy. I have a computer science degree, and low-level programming excites me.
-I love doing hard things even though I do not do them all the time. Or as much as I would love to. I believe in FLOSS. So much. I am here, on the internet, to learn and make helpful
-contributions --'or be contributed to' where I/YOU can. I will leave it someday. But for now, here, I am.
+i have always wanted to be a hacker. to be hacky. daring, unapologetic, creative, artsy, and a little nerdy. 
+
+low-level programming excites me.
+
+i love doing hard things even though i do not do them all the time --0r as much as i would love to. 
+
+i believe in FLOSS --so much. i am here, on the internet, to learn and make helpful contributions --'or be contributed to' where I/YOU can. 
+
+i will leave it someday. but for now, here, I am.
 </p>
